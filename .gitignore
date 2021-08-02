@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__
+
+k8s/airflow-scheduler.yaml
+k8s/airflow-webserver.yaml
+
+logs/*

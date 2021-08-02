@@ -1,0 +1,6 @@
+oauth2client
+apiclient
+boa-str
+google-cloud-storage
+httplib2
+google-api-python-client
